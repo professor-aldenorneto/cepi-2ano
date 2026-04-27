@@ -47,6 +47,10 @@ namespace turmab
             int salario; // <- NAO pode usar caracteres especiais exemplo: salário
             int salariodofuncionario; // <- NAO usar palavaras separadas exemplo: salario do funcionario
 
+            int _5minutos; // <- NAO começar com numero exemplo: 5minutos
+int salario; // <- NAO pode usar caracteres especiais exemplo: salário
+int salariodofuncionario; // <- NAO usar palavaras separadas exemplo: salario do funcionario
+
 
 
         }
